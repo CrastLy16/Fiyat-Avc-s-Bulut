@@ -1,0 +1,34 @@
+{
+  "globalMinDropPercent": 20,
+  "enabledSites": [
+    "AMAZON",
+    "HEPSIBURADA",
+    "N11",
+    "TRENDYOL",
+    "VATAN",
+    "TEKNOSA",
+    "MEDIAMARKT"
+  ],
+  "products": [
+    {
+      "id": "ornek-1",
+      "name": "Örnek Ürün (GitHub üzerinden kendi ürün linklerinizle değiştirin)",
+      "targetDropPercent": 15,
+      "offers": [
+        {
+          "site": "AMAZON",
+          "url": "https://www.amazon.com.tr/"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "kat-ornek-1",
+      "name": "Örnek Fırsat / Kategori Sayfası",
+      "site": "AMAZON",
+      "url": "https://www.amazon.com.tr/gp/goldbox",
+      "minDropPercent": 20
+    }
+  ]
+}
