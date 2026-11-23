@@ -1,6 +1,39 @@
 {
-  "updatedAt": 0,
-  "products": [],
-  "categories": [],
+  "updatedAt": 1795468542580,
+  "products": [
+    {
+      "id": "ornek-1",
+      "name": "Örnek Ürün (GitHub üzerinden kendi ürün linklerinizle değiştirin)",
+      "targetDropPercent": 15,
+      "offers": [
+        {
+          "site": "AMAZON",
+          "url": "https://www.amazon.com.tr/",
+          "title": "Amazon.com.tr",
+          "brand": "",
+          "gtin": "",
+          "modelCode": "",
+          "price": null,
+          "previousPrice": null,
+          "dropPercent": 0.0,
+          "status": "Okunamadı (HTTP)",
+          "matchStatus": "REFERENCE",
+          "matchScore": 100
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "kat-ornek-1",
+      "name": "Örnek Fırsat / Kategori Sayfası",
+      "site": "AMAZON",
+      "url": "https://www.amazon.com.tr/gp/goldbox",
+      "minDropPercent": 20,
+      "scannedCount": 0,
+      "status": "0 ürün tarandı (HTTP)",
+      "knownPrices": {}
+    }
+  ],
   "bigDeals": []
 }
