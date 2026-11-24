@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795520812274,
+  "updatedAt": 1795524919755,
   "products": [
     {
       "id": "ornek-1",
@@ -9,16 +9,16 @@
         {
           "site": "AMAZON",
           "url": "https://www.amazon.com.tr/",
-          "title": "Amazon.com.tr: Elektronik, bilgisayar, akıllı telefon, kitap, oyuncak, yapı market, ev, mutfak, oyun konsolları ürünleri ve daha fazlası için internet alışveriş sitesi",
+          "title": "",
           "brand": "",
           "gtin": "",
           "modelCode": "",
-          "price": 769.0,
-          "previousPrice": null,
+          "price": null,
+          "previousPrice": 769.0,
           "dropPercent": 0.0,
-          "status": "Güncel (Chromium)",
-          "matchStatus": "REFERENCE",
-          "matchScore": 100
+          "status": "Okunamadı (HTTP)",
+          "matchStatus": "UNCHECKED",
+          "matchScore": 0
         }
       ]
     }
