@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795517163941,
+  "updatedAt": 1795520812274,
   "products": [
     {
       "id": "ornek-1",
@@ -9,16 +9,16 @@
         {
           "site": "AMAZON",
           "url": "https://www.amazon.com.tr/",
-          "title": "",
+          "title": "Amazon.com.tr: Elektronik, bilgisayar, akıllı telefon, kitap, oyuncak, yapı market, ev, mutfak, oyun konsolları ürünleri ve daha fazlası için internet alışveriş sitesi",
           "brand": "",
           "gtin": "",
           "modelCode": "",
-          "price": null,
-          "previousPrice": 59999.0,
+          "price": 769.0,
+          "previousPrice": null,
           "dropPercent": 0.0,
-          "status": "Okunamadı (HTTP)",
-          "matchStatus": "UNCHECKED",
-          "matchScore": 0
+          "status": "Güncel (Chromium)",
+          "matchStatus": "REFERENCE",
+          "matchScore": 100
         }
       ]
     }
@@ -31,7 +31,7 @@
       "url": "https://www.amazon.com.tr/gp/goldbox",
       "minDropPercent": 20,
       "scannedCount": 0,
-      "status": "0 ürün tarandı (Chromium)",
+      "status": "0 ürün tarandı (HTTP)",
       "knownPrices": {}
     }
   ],
