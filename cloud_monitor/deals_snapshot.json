@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795676146786,
+  "updatedAt": 1795681421942,
   "products": [
     {
       "id": "ornek-1",
@@ -9,16 +9,16 @@
         {
           "site": "AMAZON",
           "url": "https://www.amazon.com.tr/",
-          "title": "Amazon.com.tr: Elektronik, bilgisayar, akıllı telefon, kitap, oyuncak, yapı market, ev, mutfak, oyun konsolları ürünleri ve daha fazlası için internet alışveriş sitesi",
+          "title": "",
           "brand": "",
           "gtin": "",
           "modelCode": "",
-          "price": 1646.0,
-          "previousPrice": 54499.0,
-          "dropPercent": 97.0,
-          "status": "Güncel (Chromium)",
-          "matchStatus": "REFERENCE",
-          "matchScore": 100
+          "price": null,
+          "previousPrice": 1646.0,
+          "dropPercent": 0.0,
+          "status": "Okunamadı (HTTP)",
+          "matchStatus": "UNCHECKED",
+          "matchScore": 0
         }
       ]
     }
@@ -35,16 +35,5 @@
       "knownPrices": {}
     }
   ],
-  "bigDeals": [
-    {
-      "title": "Örnek Ürün (GitHub üzerinden kendi ürün linklerinizle değiştirin)",
-      "site": "AMAZON",
-      "url": "https://www.amazon.com.tr/",
-      "oldPrice": 54499.0,
-      "newPrice": 1646.0,
-      "dropPercent": 97.0,
-      "comparisonSummary": "• AMAZON: 1,646.00 TL",
-      "isFromCategory": false
-    }
-  ]
+  "bigDeals": []
 }
