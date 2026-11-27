@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795807602492,
+  "updatedAt": 1795810989635,
   "products": [
     {
       "id": "ornek-1",
@@ -9,16 +9,16 @@
         {
           "site": "AMAZON",
           "url": "https://www.amazon.com.tr/",
-          "title": "Amazon.com.tr",
+          "title": "",
           "brand": "",
           "gtin": "",
           "modelCode": "",
           "price": null,
-          "previousPrice": 39999.0,
+          "previousPrice": null,
           "dropPercent": 0.0,
           "status": "Okunamadı (HTTP)",
-          "matchStatus": "REFERENCE",
-          "matchScore": 100
+          "matchStatus": "UNCHECKED",
+          "matchScore": 0
         }
       ]
     }
