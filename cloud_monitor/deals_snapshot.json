@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795860992991,
+  "updatedAt": 1795864481454,
   "products": [
     {
       "id": "ornek-1",
@@ -14,7 +14,7 @@
           "gtin": "",
           "modelCode": "",
           "price": 128899.0,
-          "previousPrice": null,
+          "previousPrice": 128899.0,
           "dropPercent": 0.0,
           "status": "Güncel (HTTP)",
           "matchStatus": "REFERENCE",
