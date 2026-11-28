@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795887225507,
+  "updatedAt": 1795890682346,
   "products": [
     {
       "id": "ornek-1",
@@ -13,9 +13,9 @@
           "brand": "",
           "gtin": "",
           "modelCode": "",
-          "price": 128899.0,
-          "previousPrice": null,
-          "dropPercent": 0.0,
+          "price": 16048.0,
+          "previousPrice": 128899.0,
+          "dropPercent": 87.5,
           "status": "Güncel (HTTP)",
           "matchStatus": "REFERENCE",
           "matchScore": 100
@@ -35,5 +35,16 @@
       "knownPrices": {}
     }
   ],
-  "bigDeals": []
+  "bigDeals": [
+    {
+      "title": "Örnek Ürün (GitHub üzerinden kendi ürün linklerinizle değiştirin)",
+      "site": "AMAZON",
+      "url": "https://www.amazon.com.tr/",
+      "oldPrice": 128899.0,
+      "newPrice": 16048.0,
+      "dropPercent": 87.5,
+      "comparisonSummary": "• AMAZON: 16,048.00 TL",
+      "isFromCategory": false
+    }
+  ]
 }
